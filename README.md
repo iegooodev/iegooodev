@@ -26,7 +26,7 @@ Gosto de aprender sobre desenvolvimento, manutenção de computadores, redes e s
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,vscode,windows,linux,kali" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,windows,linux,kali" />
 
 </div>
 
