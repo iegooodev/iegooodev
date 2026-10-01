@@ -1,29 +1,29 @@
 ```md
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Iego%20Neri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Técnico%20em%20Informática%20|%20Hardware%20|%20Cibersegurança&descAlignY=60&descSize=18" />
+  <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" width="100%" alt="Matrix Hacker Background"/>
 </p>
+
+<h1 align="center">👨‍💻 Iego Neri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Iego+Neri!;Técnico+em+Informática;Apaixonado+por+hardware+e+tecnologia;Estudando+desenvolvimento+e+cibersegurança;Sempre+aprendendo+algo+novo!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;Olá%2C+eu+sou+Iego+Neri;Técnico+em+Informática;Hardware+%7C+Programação+%7C+Cibersegurança;Welcome+to+my+GitHub..." />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🟢 SYSTEM // ABOUT ME
 
-Sou apaixonado por **tecnologia, informática e hardware**.  
-Gosto de aprender sobre desenvolvimento, manutenção de computadores, redes e segurança da informação.
-
-- 🎓 Formação na área de **Informática**
-- 🔧 Conhecimento em **Hardware e Software**
-- 💻 Estudando **desenvolvimento web e programação**
-- 🔐 Interesse em **Segurança da Informação**
-- 🎨 Também gosto de **Design Gráfico**
-- 🚀 Sempre buscando aprender novas tecnologias
+```bash
+> user: Iego Neri
+> area: Tecnologia
+> focus: Cibersegurança
+> skills: Hardware | Software | Programação
+> status: Sempre aprendendo...
+```
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,windows,linux,kali" />
@@ -31,114 +31,80 @@ Gosto de aprender sobre desenvolvimento, manutenção de computadores, redes e s
 
 ---
 
-## 💻 Conhecimentos
+## 💻 CONHECIMENTOS
 
 ```text
-🌐 Desenvolvimento Web
-├── HTML
-├── CSS
-└── JavaScript
+[+] Desenvolvimento Web
+    ├── HTML
+    ├── CSS
+    └── JavaScript
 
-🐍 Programação
-├── Python
-├── Programação Orientada a Objetos
-└── APIs / CRUD
+[+] Programação
+    ├── Python
+    ├── POO
+    └── APIs / CRUD
 
-🔧 Hardware
-├── Montagem de computadores
-├── Manutenção
-├── Diagnóstico
-└── Upgrade de componentes
+[+] Hardware
+    ├── Montagem
+    ├── Manutenção
+    ├── Diagnóstico
+    └── Upgrade
 
-🔐 Segurança
-├── Kali Linux
-├── Redes
-├── Linux
-└── Ferramentas de Cibersegurança
+[+] Cybersecurity
+    ├── Kali Linux
+    ├── Redes
+    ├── Linux
+    └── Ferramentas de Segurança
 ```
 
 ---
 
-## 🚀 Projetos
+## 🚀 PROJECTS
 
 ### 🐄 BoviScan
-Sistema voltado para o agronegócio que utiliza tecnologia para criar uma **identificação digital de bovinos através da biometria do focinho**.
+Identificação digital de bovinos através da biometria do focinho.
 
 ### 👤 FaceScan
-Projeto de **reconhecimento facial para controle de frequência**, com foco em automatizar e facilitar o registro de presença.
+Sistema de reconhecimento facial para controle de frequência.
 
-### 🐮 Cadastro de Gado — CDG
-Sistema para gerenciamento de animais utilizando:
-
-- RFID  
-- GPS  
-- Sensores IoT  
-- Controle de vacinas  
-- Histórico dos animais  
-- Dashboards e relatórios  
+### 🐮 CDG
+Sistema de gerenciamento de gado com RFID, GPS e sensores IoT.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Sequência de contribuições
+## 🔥 STREAK
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Animação das contribuições
+## 🐍 CONTRIBUTIONS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-## 🎯 Objetivos
-
-```js
-const iego = {
-  area: "Tecnologia",
-  interesses: [
-    "Cibersegurança",
-    "Desenvolvimento",
-    "Hardware",
-    "Redes",
-    "Inteligência Artificial"
-  ],
-  objetivo: "Aprender, desenvolver e evoluir todos os dias 🚀"
-};
-```
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://github.com/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/SEU-INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E_+Access+Granted;%3E_+System+Secure;%3E_+Thanks+for+visiting..." />
 </p>
 ```
+
+Esse já fica bem no estilo **Matrix/hacker**, com números/código caindo no topo e tudo em verde.
+
+Se quiser, eu posso fazer uma versão ainda mais pesada, tipo **terminal Kali Linux**, com `ACCESS GRANTED`, IP falso, comandos digitando e efeito Matrix.
