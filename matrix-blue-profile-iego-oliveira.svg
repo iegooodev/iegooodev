@@ -1,0 +1,148 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#01040B"/>
+      <stop offset="45%" stop-color="#06162E"/>
+      <stop offset="100%" stop-color="#030814"/>
+    </linearGradient>
+
+    <linearGradient id="rain" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7DD3FC" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#7DD3FC" stop-opacity=".95"/>
+      <stop offset="70%" stop-color="#0EA5E9" stop-opacity=".52"/>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E0F2FE"/>
+      <stop offset="45%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#818CF8"/>
+    </linearGradient>
+
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="55%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientTransform="translate(985 100) rotate(160) scale(360 210)">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity=".34"/>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientTransform="translate(180 250) rotate(-25) scale(310 170)">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity=".18"/>
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="microgrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#38BDF8" stroke-opacity=".035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#microgrid)"/>
+  <rect width="1200" height="280" fill="url(#glowRight)"/>
+  <rect width="1200" height="280" fill="url(#glowLeft)"/>
+
+  <g font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="700">
+    <g transform="translate(35,-310)" fill="url(#rain)" opacity=".88" filter="url(#softGlow)">
+      <text y="0">1</text><text y="22">0</text><text y="44">1</text><text y="66">0</text><text y="88">1</text><text y="110">1</text><text y="132">0</text><text y="154">1</text><text y="176">0</text><text y="198">1</text><text y="220">0</text><text y="242">1</text><text y="264">1</text><text y="286">0</text><text y="308">1</text>
+      <animateTransform attributeName="transform" type="translate" from="35 -310" to="35 340" dur="8s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(105,-180)" fill="url(#rain)" opacity=".50">
+      <text y="0">0</text><text y="22">1</text><text y="44">0</text><text y="66">1</text><text y="88">1</text><text y="110">0</text><text y="132">1</text><text y="154">0</text><text y="176">1</text><text y="198">0</text>
+      <animateTransform attributeName="transform" type="translate" from="105 -180" to="105 330" dur="10s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(175,-340)" fill="url(#rain)" opacity=".62">
+      <text y="0">1</text><text y="22">1</text><text y="44">0</text><text y="66">1</text><text y="88">0</text><text y="110">0</text><text y="132">1</text><text y="154">1</text><text y="176">0</text><text y="198">1</text><text y="220">0</text><text y="242">1</text>
+      <animateTransform attributeName="transform" type="translate" from="175 -340" to="175 340" dur="7s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(260,-225)" fill="url(#rain)" opacity=".44">
+      <text y="0">0</text><text y="22">1</text><text y="44">1</text><text y="66">0</text><text y="88">1</text><text y="110">0</text><text y="132">1</text><text y="154">0</text><text y="176">1</text><text y="198">1</text>
+      <animateTransform attributeName="transform" type="translate" from="260 -225" to="260 330" dur="9.2s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(360,-295)" fill="url(#rain)" opacity=".62" filter="url(#softGlow)">
+      <text y="0">1</text><text y="22">0</text><text y="44">1</text><text y="66">1</text><text y="88">0</text><text y="110">1</text><text y="132">0</text><text y="154">1</text><text y="176">1</text><text y="198">0</text><text y="220">1</text>
+      <animateTransform attributeName="transform" type="translate" from="360 -295" to="360 340" dur="7.6s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(470,-170)" fill="url(#rain)" opacity=".42">
+      <text y="0">0</text><text y="22">0</text><text y="44">1</text><text y="66">0</text><text y="88">1</text><text y="110">1</text><text y="132">0</text><text y="154">1</text><text y="176">0</text>
+      <animateTransform attributeName="transform" type="translate" from="470 -170" to="470 325" dur="10.5s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(560,-330)" fill="url(#rain)" opacity=".54">
+      <text y="0">1</text><text y="22">0</text><text y="44">0</text><text y="66">1</text><text y="88">1</text><text y="110">0</text><text y="132">1</text><text y="154">0</text><text y="176">1</text><text y="198">1</text><text y="220">0</text>
+      <animateTransform attributeName="transform" type="translate" from="560 -330" to="560 340" dur="6.8s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(655,-190)" fill="url(#rain)" opacity=".40">
+      <text y="0">0</text><text y="22">1</text><text y="44">1</text><text y="66">0</text><text y="88">1</text><text y="110">0</text><text y="132">0</text><text y="154">1</text><text y="176">1</text>
+      <animateTransform attributeName="transform" type="translate" from="655 -190" to="655 330" dur="9.4s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(740,-315)" fill="url(#rain)" opacity=".66" filter="url(#softGlow)">
+      <text y="0">1</text><text y="22">1</text><text y="44">0</text><text y="66">1</text><text y="88">0</text><text y="110">1</text><text y="132">1</text><text y="154">0</text><text y="176">0</text><text y="198">1</text><text y="220">0</text><text y="242">1</text>
+      <animateTransform attributeName="transform" type="translate" from="740 -315" to="740 340" dur="7.1s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(840,-220)" fill="url(#rain)" opacity=".46">
+      <text y="0">0</text><text y="22">1</text><text y="44">0</text><text y="66">1</text><text y="88">1</text><text y="110">0</text><text y="132">1</text><text y="154">0</text><text y="176">1</text><text y="198">0</text>
+      <animateTransform attributeName="transform" type="translate" from="840 -220" to="840 332" dur="9.8s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(930,-345)" fill="url(#rain)" opacity=".58">
+      <text y="0">1</text><text y="22">0</text><text y="44">1</text><text y="66">0</text><text y="88">1</text><text y="110">1</text><text y="132">0</text><text y="154">1</text><text y="176">0</text><text y="198">1</text><text y="220">1</text><text y="242">0</text>
+      <animateTransform attributeName="transform" type="translate" from="930 -345" to="930 342" dur="6.4s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(1030,-200)" fill="url(#rain)" opacity=".44">
+      <text y="0">0</text><text y="22">0</text><text y="44">1</text><text y="66">1</text><text y="88">0</text><text y="110">1</text><text y="132">0</text><text y="154">1</text><text y="176">0</text><text y="198">1</text>
+      <animateTransform attributeName="transform" type="translate" from="1030 -200" to="1030 330" dur="8.6s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(1125,-295)" fill="url(#rain)" opacity=".70" filter="url(#softGlow)">
+      <text y="0">1</text><text y="22">0</text><text y="44">1</text><text y="66">1</text><text y="88">0</text><text y="110">0</text><text y="132">1</text><text y="154">1</text><text y="176">0</text><text y="198">1</text><text y="220">0</text>
+      <animateTransform attributeName="transform" type="translate" from="1125 -295" to="1125 340" dur="7.7s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g fill="#7DD3FC" opacity=".65">
+    <circle cx="822" cy="55" r="1.4"/>
+    <circle cx="920" cy="102" r="1.8"/>
+    <circle cx="985" cy="78" r="1.2"/>
+    <circle cx="1088" cy="48" r="1.4"/>
+    <circle cx="742" cy="132" r="1.1"/>
+    <circle cx="690" cy="88" r="1.2"/>
+    <circle cx="540" cy="72" r="1.0"/>
+  </g>
+
+  <text x="86" y="118"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="68"
+        font-weight="900"
+        fill="url(#title)"
+        filter="url(#textGlow)">IEGO OLIVEIRA</text>
+
+  <rect x="89" y="140" width="88" height="5.5" rx="3" fill="url(#line)" opacity=".95"/>
+
+  <text x="90" y="188"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        letter-spacing="6.5"
+        fill="#E2F2FF">CODE • TECH • CREATE</text>
+
+  <text x="90" y="224"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="18"
+        fill="#A9C6E8">Guaraciaba do Norte, Ceará, Brasil • Informática • Tecnologia • Criação</text>
+</svg>
