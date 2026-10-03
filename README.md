@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="matrix-blue-profile.svg" width="100%" alt="Iego Neri"/>
+  <img src="matrix-blue-profile-clean.svg" width="100%" alt="Iego Neri"/>
 </p>
 
 <br>
