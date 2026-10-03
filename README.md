@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Iego Neri"/>
+  <img src="banner.svg" width="100%" alt="Iego Neri"/>
 </p>
 
 <br>
@@ -26,22 +26,3 @@
 
 </p>
 
----
-
-## 💻 Sobre mim
-
-```bash
-iego@github:~$ whoami
-
-Nome        : Iego Neri
-Área        : Tecnologia da Informação
-Formação    : Técnico em Informática
-Localização : Ceará, Brasil
-
-Interesses  : Hardware
-              Programação
-              Desenvolvimento Web
-              Design
-              Tecnologia
-
-Status      : Sempre aprendendo...
