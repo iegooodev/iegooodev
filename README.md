@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="Iego Neri"/>
+  <img src="matrix-blue.svg" width="100%" alt="Iego Neri"/>
 </p>
 
 <br>
