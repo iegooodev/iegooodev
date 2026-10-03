@@ -1,16 +1,47 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Iego Neri"/>
+</p>
 
-<!--
-**iegooodev/iegooodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h2 align="center">
+  > Transformando ideias em soluções_
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/TÉCNICO%20EM%20INFORMÁTICA-020617?style=for-the-badge&logo=windows-terminal&logoColor=38BDF8">
+
+<img src="https://img.shields.io/badge/CEARÁ-020617?style=for-the-badge&logoColor=38BDF8">
+
+<img src="https://img.shields.io/badge/BRASIL-020617?style=for-the-badge&logoColor=38BDF8">
+
+<img src="https://img.shields.io/badge/HARDWARE-020617?style=for-the-badge&logo=amd&logoColor=38BDF8">
+
+<img src="https://img.shields.io/badge/PROGRAMAÇÃO-020617?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8">
+
+<img src="https://img.shields.io/badge/DESIGN-020617?style=for-the-badge&logo=figma&logoColor=38BDF8">
+
+</p>
+
+---
+
+## 💻 Sobre mim
+
+```bash
+iego@github:~$ whoami
+
+Nome        : Iego Neri
+Área        : Tecnologia da Informação
+Formação    : Técnico em Informática
+Localização : Ceará, Brasil
+
+Interesses  : Hardware
+              Programação
+              Desenvolvimento Web
+              Design
+              Tecnologia
+
+Status      : Sempre aprendendo...
